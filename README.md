@@ -1,1 +1,1 @@
-# public-repo-for-copilit-testing
+# public-repo-for-copilot-testing
